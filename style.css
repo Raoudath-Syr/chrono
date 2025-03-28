@@ -1,0 +1,25 @@
+.entre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px; 
+    gap: 9px;
+    
+}
+
+#vide{
+   height: 3vh;
+   width: 5vw; 
+}
+.temps{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
